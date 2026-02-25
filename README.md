@@ -1,4 +1,4 @@
-* Criar pasta do projeto *
+* Criar pasta do projeto 
 * Abrir no VS Code
 * Inicializar Git
 * Criar README (e preencher com as informações do projeto/atividade)
